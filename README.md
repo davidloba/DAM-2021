@@ -16,3 +16,5 @@ Ivan Porras Cáceres
 Brahim Chahbouni El Kammouni
 
 Manel Pagès Lozano
+
+Alejandro Fabra Segarra
