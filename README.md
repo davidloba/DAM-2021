@@ -6,3 +6,5 @@ David Lozano Balaguer
 Àlex López Palacios
 
 Pau Raurich Verdú
+
+Biel Bosch Ballester
