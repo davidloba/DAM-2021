@@ -2,3 +2,6 @@
 Repositori Pràctiques Git
 
 David Lozano Balaguer
+
+Àlex López Palacios
+
